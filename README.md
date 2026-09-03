@@ -1,6 +1,19 @@
 # Road Safety Pothole Detection
 
 A computer vision-based road safety system for detecting potholes in road images and videos using YOLO11. The project also includes pothole tracking, severity classification, road-condition assessment, and an interactive Streamlit dashboard.
+## Project Demo
+
+### Pothole Detection
+
+![Pothole Detection](screenshots/image-detection.png)
+
+### Video Detection & Tracking
+
+![Video Detection](screenshots/video-detection.png)
+
+### Road Condition Dashboard
+
+![Dashboard](screenshots/dashboard.png)
 
 ## Project Overview
 
